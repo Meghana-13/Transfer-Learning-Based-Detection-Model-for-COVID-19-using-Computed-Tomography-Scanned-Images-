@@ -41,9 +41,7 @@ All models are initialized with pre-trained ImageNet weights.
 We evaluated the models using the following metrics:
 
 - Accuracy
-- Precision
-- Recall
-- F1 Score
+- Accuracy and Loss graphs
 - Confusion Matrix
 
 
