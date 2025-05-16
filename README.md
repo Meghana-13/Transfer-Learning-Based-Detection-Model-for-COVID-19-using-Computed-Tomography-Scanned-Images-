@@ -1,0 +1,1 @@
+# Transfer-Learning-Based-Detection-Model-for-COVID-19-using-Computed-Tomography-Scanned-Images-
